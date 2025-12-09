@@ -14,13 +14,12 @@
    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝                     
 ```
 
-<div align="center">
 
 ![Version](https://img.shields.io/badge/version-3.0-blue.svg?cacheSeconds=2592000)
 ![Bash](https://img.shields.io/badge/bash-5.0+-orange.svg)
 ![Platform](https://img.shields.io/badge/platform-linux-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-production--ready-brightgreen.svg)
-![Stars](https://img.shields.io/github/stars/yourusername/searchthebox?style=social)
+![Stars](https://img.shields.io/github/stars/Betokis/SearchTheBox-v1.0)
 
 **Herramienta avanzada de búsqueda e inteligencia para máquinas de HackTheBox**
 
